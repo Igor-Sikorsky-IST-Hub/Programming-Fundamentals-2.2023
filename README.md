@@ -6,4 +6,4 @@
 
 ## Результати оцінювання
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSKLQaCeuQ1xGit7TIDXyVSgeHeNTvLW6FPa3R00s1J-BVIRboOx82SWMXCmYcCd-K1IDq85hk_4fYI/pubhtml?widget=true&amp;headers=false"></iframe>
+Таблиця із результатами оцінювання знаходиться [тут](https://docs.google.com/spreadsheets/d/1PHkTytemQNAk7nw0G4B0fyS7uglnGK3-3OQ_Hrbebek/edit?usp=sharing)
